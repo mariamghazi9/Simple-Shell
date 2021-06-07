@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1619764893 source:/home/mariamghazi/Desktop/Simple Shell/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+
